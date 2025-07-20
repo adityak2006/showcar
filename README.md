@@ -1,6 +1,6 @@
-# 🚗 AutoNexus
+# 🚗 RPMZone
 
-**AutoNexus** is a Car Showroom Management & Booking System designed to simplify and digitize the operations of a modern car dealership. It allows users to browse available cars, manage inventory, and book vehicles easily via a streamlined interface.
+**RPMZone** is a Car Showroom Management & Booking System designed to simplify and digitize the operations of a modern car dealership. It allows users to browse available cars, manage inventory, and book vehicles easily via a streamlined interface.
 
 ---
 
@@ -23,5 +23,4 @@
 - **Hosting:** Render.com
 
 ## Contributors
-- Shreyas Patil
-- Aditya Dube
+- Aditya Kolgane
